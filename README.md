@@ -95,11 +95,11 @@ Ensure you have the following dependencies installed:
 ---
 
 ## Screenshots
-
-![Main Screen](https://via.placeholder.com/800x400.png?text=Main+Screen)
+![Alt text](images/1.png)
 *Main screen showing the video tracking interface.*
 
-![Heatmap](https://via.placeholder.com/800x400.png?text=Heatmap+Example)
+![Alt text](images/2.png)
+
 *Player movement heatmap.*
 
 ---
@@ -120,7 +120,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
+
 
 ## Acknowledgments
 
